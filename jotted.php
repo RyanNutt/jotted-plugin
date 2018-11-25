@@ -83,7 +83,6 @@ class Jotted {
                 'type' => 'select',
                 'options' => [
                     'default' => __( 'Default', 'jotted' ),
-                    'bin' => __( 'Bin', 'jotted' ),
                     'pen' => __( 'Pen', 'jotted' )
                 ],
                 'default' => 'default',
